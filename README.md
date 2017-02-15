@@ -69,8 +69,7 @@ Webtask compilers for Auth0 extension points also enforce the authorization chec
 
 ### Extensibility points available
 1. [The *client-credentials-exchange* extensibility point](./client-credentials-exchange.md)
-2. [The *password-exchange* extensibility point](./password-exchange.md)
-3. [The *pre-user-registration* extensibility point](./pre-user-registration.md)
+2. [The *pre-user-registration* extensibility point](./pre-user-registration.md)
 3. [The *post-user-registration* extensibility point](./post-user-registration.md)
 
 ### The *generic* programming model for all extensibility points
